@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "11111",
+      "color": "dddddddd",
+      "id": 1
+    },
+    {
+      "name": "22222",
+      "color": "bbbbb",
+      "id": 2
+    },
+    {
+      "name": "ssssss",
+      "color": "dddddddd",
+      "id": 3
+    },
+    {
+      "name": "aaaaaaaaa",
+      "color": "aaaaaaaaaaa",
+      "id": 4
+    },
+    {
+      "name": "aaaaaaaaa",
+      "color": "aaaaaaaaaaa",
+      "id": 5
+    },
+    {
+      "name": "ddddddd",
+      "color": "fffffffff",
+      "id": 6
+    },
+    {
+      "name": "ddddddd",
+      "color": "fffffffff",
+      "id": 7
+    }
+  ]
+}
